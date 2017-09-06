@@ -1,0 +1,18 @@
+#--------------------------------
+# Unit List For UnitTool
+#  + Ship Name
+#  + Unit Name
+#--------------------------------
+
+
+#--------------------------------
+# Ship List
+#--------------------------------
++1.	Battleship
++2.	Battleship2
++7.	Carrier
++8.	Corvette
++10.	Cruiser
++11.	Cruiser1
++21.	Frigate3
++22.	Z1

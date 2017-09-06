@@ -1,0 +1,23 @@
+BEGIN WorldIndex
+	BEGIN Bravo END
+WorldIndex END
+BEGIN MapData
+	BEGIN Bravo_Battle_Map END
+MapData END
+BEGIN PlayerData
+	BEGIN Corvette END
+	BEGIN Corvette END
+	BEGIN Corvette END
+PlayerData END
+BEGIN AIData
+	BEGIN Corvette END
+	BEGIN Corvette END
+	BEGIN Corvette END
+	BEGIN Corvette END
+	BEGIN Corvette END
+	BEGIN Corvette END
+	BEGIN Corvette END
+	BEGIN Corvette END
+	BEGIN Corvette END
+	BEGIN Corvette END
+AIData END

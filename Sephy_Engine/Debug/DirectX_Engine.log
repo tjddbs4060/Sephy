@@ -1,0 +1,56 @@
+﻿D:\Visual Studio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(DirectX_Engine.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  mainNode.cpp
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\mapeventobject.h(127): warning C4244: '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\systemuidialog.h(54): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\systemuidialog.h(61): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\systemuidialog.h(67): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\systemuidialog.h(76): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\systemuidialog.h(77): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\systemuidialog.h(83): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\systemuidialog.h(89): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\systemuidialog.h(94): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\systemuidialog.h(95): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\systemuidialog.h(101): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\systemuidialog.h(107): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\systemuidialog.h(112): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\systemuidialog.h(147): warning C4244: '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\systemuicontrol.h(57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\systemuicontrol.h(110): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\systemuicontrol.h(114): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\systemuicontrol.h(145): warning C4244: '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\maptiledata.h(50): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\maptiledata.h(56): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\maptiledata.h(60): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\maptiledata.h(95): warning C4244: '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\maptiledata.h(99): warning C4244: 'return': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\maptiledata.h(103): warning C4244: 'return': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\minimapviewer.h(57): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\minimapviewer.h(62): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\battle_minimapview.h(62): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\battle_minimapview.h(67): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\battle_camerasystem.h(92): warning C4244: '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\battle_mapeventarea_collisionarea.h(41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\battle_mapeventarea_collisionarea.h(64): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\battle_mapeventarea_collisionarea.h(71): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\battle_ship.h(735): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\battle_ship.h(740): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\battle_ship.h(1087): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\battle_ship.h(1093): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\systembutton.h(64): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\battle_ui_fleetmark.h(59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\battle_ui_fleetmarkviewer.h(53): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\battle_fleetsystem.h(93): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\unittool_camerasystem.h(97): warning C4244: '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\world_ship.h(45): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\world_ship.h(46): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\world_ship.h(47): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\world_ship.h(56): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\world_ship.h(57): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\world_ship.h(58): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\world_island.h(8): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\world_battle_infor_ui.h(91): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\world_battle_infor_ui.h(92): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\world_atk_list_ui.h(94): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\navyfield_project\git_project\02_sephyengine\sephyengine\sephy_engine\world_atk_list_ui.h(95): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DirectX_Engine.vcxproj -> D:\NavyField_Project\Git_Project\02_SephyEngine\SephyEngine\Debug\Sephy_Engine.exe
+  DirectX_Engine.vcxproj -> D:\NavyField_Project\Git_Project\02_SephyEngine\SephyEngine\Debug\Sephy_Engine.pdb (Partial PDB)
